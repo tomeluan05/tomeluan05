@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Tomé Luan J. Coelho, I'm 29 years old.
+##### I had graduated at System Analyst from University Unicesumar and also have a diplome from Web Full Stack from SoulCode Academy. 💻
+###### I’m always looking for more knowledge and I’m available to help people that are starting out in IT area. 😁
+
 <div>
   <a href="https://github.com/tomeluan05" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomeluan05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +19,6 @@
   <img align="center" alt="Tome-NodeJs" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Tome-MongoDb" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Tome-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
 </div>
   
   ##
