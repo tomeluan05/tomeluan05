@@ -2,6 +2,8 @@
 ##### I had graduated at System Analyst from University Unicesumar and also have a diplome from Web Full Stack from SoulCode Academy. 💻
 ##### I’m always looking for more knowledge and I’m available to help people that are starting out in IT area. 😁
 
+<br>
+
 <div>
   <a href="https://github.com/tomeluan05" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomeluan05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
