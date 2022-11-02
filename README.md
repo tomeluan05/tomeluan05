@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Tomé Luan J. Coelho, I'm 30 years old.
+### Hey Dude 👋 My name is Tomé Luan J. Coelho, I'm 30 years old.
 ##### I had graduated at System Analyst from University Unicesumar and also have a diplome from Web Full Stack from SoulCode Academy. 💻
 ##### I’m always looking for more knowledge and I’m available to help people that are starting out in IT area. 😁
 
